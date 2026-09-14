@@ -1,3 +1,5 @@
 AssignMethods:
   createSEDS,
   filterRowSEDS
+AggregateMethods:
+  DESeq2_newDS
